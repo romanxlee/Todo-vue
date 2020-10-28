@@ -1,4 +1,6 @@
-# vue-todo
+# vue-todo    
+Доступно по ссылке   
+https://romanxlee.github.io/Todo-vue/
 
 ## Project setup
 ```
